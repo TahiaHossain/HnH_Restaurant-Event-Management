@@ -1,4 +1,7 @@
-Introduction (Project Story) 
+***In this public repo, we added our completed final project that we worked on (our previous repository got some issues where we had the working changes, so updated the full project in this repo)***
+
+
+Introduction (Project Story)
 
 In an era where convenience and customization are paramount in the service industry, the need for an intuitive and efficient platform for organizing events at restaurants has never been more evident. Our project, the Restaurant Event Management Website, attempts to address this need by providing a comprehensive solution that streamlines the entire event planning process.
 
@@ -28,6 +31,8 @@ Mern  (MongoDB, Express.js, React.js, and Node.js)
 
 Framework
  (HTML, JavaScript,CSS) 
+
+
 
 
 
