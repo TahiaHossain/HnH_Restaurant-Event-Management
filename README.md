@@ -25,6 +25,7 @@ Technology
 
 Language
 Mern  (MongoDB, Express.js, React.js, and Node.js)
+
 Framework
  (HTML, JavaScript,CSS) 
 
@@ -38,10 +39,10 @@ How to use the project from Github and run the project locally:
 
 Download and install Nodejs.
 Download and install MongoBD Compass.
-Download the repository from GitHub or clone the repository with ‘git clone’ command with the link to the repository
-Navigate to the project directory on VS Code
-Navigate to the backend directory and install the dependencies : ‘cd backend’ and then ‘npm install’
-Start the development server with ‘npm start’ command
-Create a new terminal instance and navigate to the frontend directory and finally install dependencies with ‘cd frontend’ and ‘npm install’ commands
-Start the client development server with ‘npm start’ command
+Download the repository from GitHub or clone the repository with ‘git clone’ command with the link to the repository.
+Navigate to the project directory on VS Code.
+Navigate to the backend directory and install the dependencies : ‘cd backend’ and then ‘npm install’.
+Start the development server with ‘npm start’ command.
+Create a new terminal instance and navigate to the frontend directory and finally install dependencies with ‘cd frontend’ and ‘npm install’ commands.
+Start the client development server with ‘npm start’ command.
 Finally, open the browser and visit at http://localhost:5173/
